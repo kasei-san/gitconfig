@@ -22,3 +22,5 @@
 [core]
 	quotepath = false
 	excludesfile = /Users/kasei_san/.gitignore
+[push]
+	default = current
